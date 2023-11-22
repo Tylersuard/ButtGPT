@@ -1,3 +1,5 @@
+![ButtGPT Logo](https://github.com/Tylersuard/ButtGPT/blob/main/ButtGPT_logo.png "ButtGPT Logo")
+
 # ButtGPT
 
 Welcome to the pinnacle of modern technology, nay, of civilization.
